@@ -77,10 +77,10 @@ a:hover {
 }
 
 
-@media (max-width:395px) {
+@media (max-width:375px) {
 
     .profile-card {
-        width: 300px;
+        width: 280px;
     }
 
     a {
